@@ -14,7 +14,7 @@ A modern, voice-enabled AI chatbot with a beautiful glass morphism UI that simul
 
 ## 🚀 Live Demo
 
-[Deployed on Vercel](https://your-app-name.vercel.app)
+[Deployed on Vercel]([https://your-app-name.vercel.app](https://bot-woad-five.vercel.app/))
 
 ## 🛠️ Tech Stack
 
